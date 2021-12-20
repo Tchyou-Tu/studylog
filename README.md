@@ -12,6 +12,8 @@ leetcode 1 problem
 leetcode 
 sloving two problems in 3 different ways
 
-###
+### 2021/12/20
+leetcode
+
 
 
