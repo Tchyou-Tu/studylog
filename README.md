@@ -14,6 +14,8 @@ sloving two problems in 3 different ways
 
 ### 2021/12/20
 leetcode
+###2021.12.21
 
+leetcoe h out
 
 
