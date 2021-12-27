@@ -16,6 +16,11 @@ sloving two problems in 3 different ways
 leetcode
 ###2021.12.21
 
-leetcoe h out
+leetcoe 
 
+### 2021.12.27 
 
+one week without algorithm ,i feel weak.   
+I want say something,i feel alone ,but i konw that i have to take the lonelyness alone .
+
+do some leetcode.
